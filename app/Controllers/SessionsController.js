@@ -1,5 +1,5 @@
 import SessionsService from "../Services/SessionsService.js";
-import _store from "../store.js";
+import _store from "../store.js"; //herr
 
 // private
 function _drawSessions() {
